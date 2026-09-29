@@ -1,0 +1,6 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-MT3: error: *** JOB 16 ON MT3 CANCELLED AT 2026-09-29T14:15:59 DUE TO TIME LIMIT ***
+slurmstepd-MT3: error: *** STEP 16.0 ON MT3 CANCELLED AT 2026-09-29T14:15:59 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination
+srun: error: MT3: task 0: Terminated
